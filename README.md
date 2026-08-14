@@ -7,5 +7,4 @@
   scaling argument, not an exact substitution. Ties to non-dimensionalising 
   Navier-Stokes properly — revisit once that's covered.
 - **Mach number derivation**: was really interesting, involvement of speed of sound was cool
-- **Introduced to practical application of these quantities**
-  
+- **Introduced to practical application of these quantities**  
