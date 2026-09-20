@@ -12,10 +12,12 @@
 ## 25/08/2026
 - **Stream functions**: nned to understand multivariable chain rule to derive general stream functions only to find they're rarely used in pactice
 
-## 20/09/2026
+## 16/09/2026
 - Used rotational flow to work out general stream functions, this led to working out vorticity and using stokes theorem on a closed loop integral to calculate full circulation
 - used irrotational flow with zero vorticity condition to derive velocity potential functions
 - went through situations for assuming zero viscosity, and clear derivation from navier to bernoulli
 - understood the nabla terminology used in mutlivariable calc, stokes' theorem can be used to rewrite the closed loop integral using vorticity, ∇xV gives the vorticity
 - apply nabla with a quantity (A): ∇xA gives the curl of A, it is an operation that can be applied to a vector field to work out the amount of spin, when applied to velocity, it gives vorticity
-- 
+
+## 20/09/2026
+- Learnt more about the nabla operation, the divergence and curl, as well thr laplace, and how certain comditions allow stream eqautions and veloctity potential to satisfy laplace. 
