@@ -20,4 +20,7 @@
 - apply nabla with a quantity (A): ∇xA gives the curl of A, it is an operation that can be applied to a vector field to work out the amount of spin, when applied to velocity, it gives vorticity
 
 ## 20/09/2026
-- Learnt more about the nabla operation, the divergence and curl, as well thr laplace, and how certain comditions allow stream eqautions and veloctity potential to satisfy laplace. 
+- Learnt more about the nabla operation, the divergence and curl, as well thr laplace, and how certain comditions allow stream eqautions and veloctity potential to satisfy laplace.
+
+## 24/09/2026
+- derived stream functions and velocity potentials for all elementary flows
