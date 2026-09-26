@@ -24,3 +24,9 @@
 
 ## 24/09/2026
 - derived stream functions and velocity potentials for all elementary flows
+
+## 26/09/26
+- Derived stream functions and velocity fields foe flows combined of more than one elementary flow.
+- used equations based of the rotating cylinder flow to build the kutta-joukowski theorem for lift due to ciruclaion
+- used vel. pot. and surface conditiosn to derive the source panel method
+- 
