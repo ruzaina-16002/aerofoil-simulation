@@ -29,4 +29,7 @@
 - Derived stream functions and velocity fields foe flows combined of more than one elementary flow.
 - used equations based of the rotating cylinder flow to build the kutta-joukowski theorem for lift due to ciruclaion
 - used vel. pot. and surface conditiosn to derive the source panel method
-- 
+- repeated for the vortex panel method
+
+
+# Research in foundations is over - can now begin to code the vortex panel method 
