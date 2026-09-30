@@ -33,3 +33,4 @@
 
 
 # Research in foundations is over - can now begin to code the vortex panel method 
+[Uploading aerofoil_pro_.ipynb…]()
