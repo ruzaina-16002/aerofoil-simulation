@@ -33,4 +33,11 @@
 
 
 # Research in foundations is over - can now begin to code the vortex panel method 
-[Uploading aerofoil_pro_.ipynb…]()
+## Code
+
+Full implementation and progress: [`aerofoil_panel_method.ipynb`](aerofoil_panel_method.ipynb)
+
+Current implementation includes:
+- NACA 4-digit coordinate generation
+- Panel discretisation
+- Source panel influence coefficients + linear solve
